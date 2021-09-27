@@ -1,0 +1,13 @@
+.cart{
+    position: fixed;
+    background-color: #f7943ee1;
+    margin: 10px 0 0 5%;
+    padding: 20px;
+    border-radius: 10px; 
+}
+.cart:hover{
+    box-shadow: 10px 10px 10px rgba(245, 208, 176, 0.678);
+}
+.cart h2{
+    border-bottom: 1px solid rgba(29, 27, 27, 0.616);
+}

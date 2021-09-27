@@ -1,0 +1,23 @@
+.product{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 10px;
+    border-bottom: 1px solid rgba(187, 184, 184, 0.733);
+    border-right: 1px solid rgba(187, 184, 184, 0.733);
+}
+.information{
+    padding-left: 100px;
+}
+.information h3{
+    padding-top: 10px;
+}
+.information button{
+    margin: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
